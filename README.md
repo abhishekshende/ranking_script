@@ -14,7 +14,8 @@ pip install flask\
 pip install pymongo
 
 ### Also
-Ensure ranking_script1.py and rank_serv.py are in same folder
+Download python_code folder\
+cd into the python_code folder
 
 in terminal run - \
 python rank_serv.py
