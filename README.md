@@ -12,7 +12,7 @@ python --version
 ### In terminal
 pip install flask\
 pip install pymongo
-\
+
 
 Ensure ranking_script1.py and rank_serv.py are in same folder
 
